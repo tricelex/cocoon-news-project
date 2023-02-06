@@ -1,0 +1,16 @@
+*.pyc
+env/
+.env
+.coverage
+staticfiles/
+coverage/
+settings.json
+fixtures/
+
+
+# Python compiled byte code
+__pycache__/
+.pytest_cache/
+*.pyc
+
+db.sqlite3
