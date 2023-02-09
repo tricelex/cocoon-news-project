@@ -12,5 +12,3 @@ fixtures/
 __pycache__/
 .pytest_cache/
 *.pyc
-
-db.sqlite3
